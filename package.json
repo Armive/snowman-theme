@@ -1,0 +1,21 @@
+{
+  "name": "snow-snowman-theme",
+  "displayName": "Snow snowman theme",
+  "description": "This theme is a theme to put in the winter",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Snow snowman theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Snow snowman theme-color-theme.json"
+      }
+    ]
+  }
+}
