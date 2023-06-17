@@ -1,21 +1,31 @@
 {
-  "name": "snow-snowman-theme",
-  "displayName": "Snow snowman theme",
-  "description": "This theme is a theme to put in the winter",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.79.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Snow snowman theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Snow snowman theme-color-theme.json"
-      }
-    ]
-  }
+	"icon": "./icon.jfif",
+	"author": {
+		"name": "Daniel Fernando",
+		"email": "dfreyes1236@gmail.com"
+	},
+	"repository": {
+		"url": "https://github.com/Df12345677/snowman-theme.git"
+	},
+	"name": "snow-snowman-theme",
+	"displayName": "Snow snowman theme",
+	"description": "This theme is a theme to put in the winter",
+	"version": "0.0.2",
+	"engines": {
+		"vscode": "^1.79.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Snow snowman theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Snow snowman theme-color-theme.json"
+			}
+		]
+	},
+	"publisher": "DanielFernando",
+	"license": "MIT"
 }
