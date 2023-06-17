@@ -2,7 +2,7 @@
 
 ### This theme is a fresh simple version of nature
 
-![Picture of the snow snowman theme](image-1.png)
+![Picture of the snow snowman theme](image.png)
 
 -   ### ¿How to install this extencion?
 
