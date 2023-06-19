@@ -10,7 +10,7 @@
 	"name": "snow-snowman-theme",
 	"displayName": "Snow snowman theme",
 	"description": "This theme is a theme to put in the winter",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"engines": {
 		"vscode": "^1.79.0"
 	},
